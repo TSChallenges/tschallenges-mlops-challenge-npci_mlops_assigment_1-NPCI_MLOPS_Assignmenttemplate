@@ -35,7 +35,9 @@
    - Run and verify your code in codespace to ensure it meets the requirements.
 
 5. **Commit Your Changes:**
-   - Commit Your Changes using the commit button available in the codespace
+   - Commit Your Changes using the commit button available in the codespace, under source control tab
+
+![](protectedfiles/commitbutton.png)
 
 6. **Submit Your Work:**
    - Once your changes are committed, your work will be automatically received and queued for evaluation.
