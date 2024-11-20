@@ -8,20 +8,24 @@
    - Click on the GitHub Classroom link provided to you.
    - You will be redirected to your individual repository for this assignment.
 
+2. **Open the repository in codespace:**
+   - In your repository navigate to `code ` -> `create codespaces on main `.
 
+![1](protected files/codebutton.png)
+       
+   - The codespace will take some time to set things up and then your codesapce will be created.
 
-
-2. **Edit the `files-ops.py` and `search.py`  File:**
+3. **Edit the `files-ops.py` and `search.py`  File:**
    - Open the `files-ops.py` and `search.py` files.
    - Write your code in this file as per the pre-defined function names.
 
-5. **Test Your Code:**
+4. **Test Your Code:**
    - Run and verify your code in codespace to ensure it meets the requirements.
 
-6. **Commit Your Changes:**
+5. **Commit Your Changes:**
    - Commit Your Changes using the commit button available in the codespace
 
-7. **Submit Your Work:**
+6. **Submit Your Work:**
    - Once your changes are committed, your work will be automatically received and queued for evaluation.
 
 ---
