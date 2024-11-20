@@ -12,8 +12,8 @@
 
 
 2. **Edit the `files-ops.py` and `search.py`  File:**
-   - Open the `files-ops.py` file  and `search.py`.
-   - Write your code in this file as per the defined function names.
+   - Open the `files-ops.py` and `search.py` files.
+   - Write your code in this file as per the pre-defined function names.
 
 5. **Test Your Code:**
    - Run and verify your code in codespace to ensure it meets the requirements.
