@@ -11,7 +11,9 @@
 2. **Open the repository in codespace:**
    - In your repository navigate to `code ` -> `create codespaces on main `.
 
-![1](protected files/codebutton.png)
+![Alt Text](protectedfiles/codebutton.png)
+
+
        
    - The codespace will take some time to set things up and then your codesapce will be created.
 
