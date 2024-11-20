@@ -32,4 +32,4 @@
 - Follow the coding standards and guidelines provided during the assignment briefing.
 - Use meaningful commit messages to describe your changes.
 
-Refer to the `Core Session by TalentSprint` available in your dashboard under the date `Nov 16, 2024`.
+Refer to the `Core Session by TalentSprint` lecture video, available in your dashboard under the date `Nov 16, 2024`.
