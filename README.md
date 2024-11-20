@@ -25,7 +25,7 @@
 
 
        
-   - The codespace will take some time to set things up and then your codesapce will be created.
+   - The codespace will take some time to set-up and then your codesapce will be created.
 
 3. **Edit the `files-ops.py` and `search.py`  File:**
    - Open the `files-ops.py` and `search.py` files.
