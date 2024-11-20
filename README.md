@@ -39,7 +39,7 @@
 
 ![](protectedfiles/commitbutton.png)
    
-   - Sync your changes using 
+   - Sync your changes using `Sync Changes` button
 6. **Submit Your Work:**
    - Once your changes are committed, your work will be automatically received and queued for evaluation.
 
