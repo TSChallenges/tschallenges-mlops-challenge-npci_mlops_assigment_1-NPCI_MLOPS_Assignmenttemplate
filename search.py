@@ -16,13 +16,10 @@ def sed(old_pattern, new_pattern, file_name):
     try:
         with open(file_name, 'r') as fp:
             lines = fp.readlines()
-        
-        # Substitute the pattern in each line
         with open(file_name, 'w') as fp:
             for line in lines:
                 new_line = re.sub(old_pattern, new_pattern, line)
                 fp.write(new_line)
-        
         print(f"Replaced '{old_pattern}' with '{new_pattern}' in file '{file_name}'.")
     except Exception as e:
         print(f"Error in sed: {e}")
