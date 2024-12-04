@@ -2,23 +2,28 @@ import os
 import sys
 
 def create_directory(dir_name):
-    # ... 
+    os.mkdir(dir_name)
+    print(f"The Directory with name {dir_name} is created")
     return
 
 def change_directory(dir_name):
-    # ... 
+    os.chdir(dir_name)
+    print(f"The Directory is changed to {dir_name}")
     return
 
 def delete_directory(dir_name):
-    # ...
+    os.rmdir(dir_name)
+    print(f"{dir_name} is deleted successfully")
     return
 
 def list_dir():
-    # ...
+    temp = os.listdir()
+    print(f"The content of the current directory is {temp}")
     return
 
 def display_pwd():
-    # ... 
+    temp = os.getcwd()
+    print(f"The current working directory id {temp}")
     return
 
 def create_file(file_name):
